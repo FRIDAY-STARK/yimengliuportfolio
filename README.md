@@ -1,2 +1,1 @@
-# yimengliuportfolio
-Yimeng "Devon" Liu's Portfolio Site
+# Devon Liu - Portfolio
